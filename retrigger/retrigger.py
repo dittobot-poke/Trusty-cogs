@@ -36,7 +36,7 @@ except ImportError:
 
 
 @cog_i18n(_)
-class ReTrigger(TriggerHandler, commands.Cog):
+class retrigger(TriggerHandler, commands.Cog):
     """
     Trigger bot events using regular expressions
 
